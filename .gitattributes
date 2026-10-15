@@ -1,0 +1,5 @@
+*.bundle binary
+*.bin binary
+catalog.hash -text
+*.md text eol=lf
+*.txt text eol=lf
